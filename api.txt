@@ -1,0 +1,3 @@
+4pSZWWm6c6Mx8Tja
+
+mongodb+srv://api:<password>@cluster0.orw24.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
